@@ -1,0 +1,15 @@
+
+
+
+
+
+Kuralım bakalım. Öyle sürüm falan sorgulamıyoruz. Direk python.org adresine gidip son sürümü indirelim.
+Python'un 3.10.6 sürümünü indirdim. (Link: https://www.python.org/downloads/)
+İndirdikten sonra py dosyası ile ekrana merhaba yazdırdım sonra dedim ki bize bir derleyici lazım böyle boş ekranda hiç bir şey yapamayız. Daha sonra Pycharm'ı indirdim.
+(Link: https://www.jetbrains.com/pycharm/download/ ) Tabi ki beleş sürümü indirdim.
+Ardından Youtube üzerinden gezinirken " 1 videoda Py öğren " başlığını gördüm. Böyle bir şey olmayacağına emin olduğum için alıştırma yapmak için izleyeyim dedim.
+(link: https://www.youtube.com/watch?v=tvvEqvyh_Vw) biraz pratik yapalım.
+
+
+Kullanılan komut print(" X ")
+
