@@ -1,0 +1,19 @@
+sdsad12312312
+
+Burada sorular ve cevaplar var. Bu soruları değiştirmeden cevapları aynı mantık ile farklı biri gibi tekrar cevap ver. ( Cevaplar çok kısa ve öz olsun.)
+ChatGPT
+Git, versiyon kontrol sistemi olarak kullanılan bir yazılımdır ve Linus Torvalds tarafından Linux çekirdeği geliştirilirken 2005 yılında oluşturulmuştur.
+
+"git pull" uzak sunucudan lokal bilgisayara branch'teki değişiklikleri çekerken, "git fetch" ise uzak sunucudaki değişiklikleri lokaldeki bilgisayarın haberdar olmasını sağlar.
+
+Takım arkadaşının gönderdiği kodları "git pull" ile alamıyorsak, kodlar henüz uzak sunucuya gönderilmemiş olabilir veya çakışan değişiklikler bulunabilir.
+
+"git fetch origin" komutundaki "origin", uzak sunucuyu temsil eder ve uzaktaki sunucudaki son değişiklikleri lokal bilgisayara çeker.
+
+"HEAD", commit işlemini temsil eden bir yapıdır ve genellikle atılan son commiti gösterir.
+
+"Staging Area" ya da "Index", local ve uzak arasında bulunan bölgeyi ifade eder ve dosyaları git'e takip ettirmek için kullanılır.
+
+"Untracked file", git tarafından takip edilmeyen ve git add komutu ile staging area'ya eklenmemiş dosyaları ifade eder.
+
+".git" klasörünü silmek, git ile yapılan çalışmaların tamamını kaybetmeye yol aç
